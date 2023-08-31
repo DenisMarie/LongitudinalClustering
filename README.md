@@ -10,6 +10,6 @@ This repository contains the R code for performing the clustering approach with 
 
 `MainFunction.R` file contains the R code for the clustering approach and the R code for depending functions.
 
-'Simulation.R' file contains the R code for simulating dataset.
+`Simulation.R` file contains the R code for simulating dataset.
 
 `call.R` file is a R script to run the proposed approach on simulated dataset.
